@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!
+My name is Julia, 
+I'm a frontend developer from Saint-Petersburg, Russia.
+I'm working as a full-time developer for a large international company.
 
 <!--
 **kivils/kivils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
