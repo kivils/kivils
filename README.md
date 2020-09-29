@@ -11,13 +11,23 @@ I'm working as a full-time developer for a large international company.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" title="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" title="babel" width="40" height="40"/>
 </p>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" title="webpack" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" title="gulp" width="40" height="40"/>
+  <b>Static site generators</b>
 </p>
 <p align="left">
   <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" title="hugo SSG" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" title="gatsby SSG" width="40" height="40"/>
 </p>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" title="webpack" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" title="gulp" width="40" height="40"/>
+</p>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> <img src="https://api.iconify.design/logos-tortoisesvn.svg" alt="svn" title="SVN" width="40" height="40"/>
+</p>
+<p align="left">
+  <b>Tools</b>
+</p>
+<p align="left">
+  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" title="github" width="40" height="40"/> 
+  <img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/> 
 </p>
 
 ### Social
