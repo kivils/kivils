@@ -1,12 +1,12 @@
 ### Hi!
 My name is Julia, 
-I'm a frontend developer from Saint-Petersburg, Russia.
-I'm working as a full-time developer for a large international company.
+I'm a fullstack developer from Dusseldord, Germany. I work for freshcells systems engineering GmbH.
 
 ### Skills
 
-- HTML5 / CSS3 / SASS / postcss / Bootstrap
-- JS / react / babel / jQuery
+- JS / react / NodeJs
+- MongoDB / GraphQL / Strapi
+- HTML5 / CSS3 / SASS / postcss
 - webpack / gulp / grunt
 - Static site generators: gatsby / hugo
 - Tools: git / svn / github / bitbucket / Jira / Confluence / Docker / Figma / Zeplin
