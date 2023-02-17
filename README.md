@@ -1,6 +1,6 @@
 ### Hi!
 My name is Julia, 
-I'm a fullstack developer from Dusseldord, Germany. I work for freshcells systems engineering GmbH.
+I'm a fullstack developer from Dusseldorf, Germany. I work for freshcells systems engineering GmbH.
 
 ### Skills
 
